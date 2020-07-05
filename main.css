@@ -1,0 +1,38 @@
+nav {
+    background-color: #eeeeee; 
+    color: black;
+}
+
+
+
+nav a {
+    color: black;
+}
+
+.framePaintingTitle {
+    text-align: center;
+    background: none;
+
+    
+}
+
+.pictureBox {
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+.pictureText {
+    margin: 2rem;
+    line-height: 2rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.sectionLight {
+   background-color: #eeeeee;
+}
+
+.sectionDark {
+    background-color: #c9c9c9;
+}
